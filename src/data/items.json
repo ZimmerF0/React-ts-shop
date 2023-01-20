@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Banana",
+    "price": 0.99,
+    "imgUrl": "/imgs/banana.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Beet",
+    "price": 1.99,
+    "imgUrl": "/imgs/beet.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Broccoli",
+    "price": 1.05,
+    "imgUrl": "/imgs/broccoli.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cabbage",
+    "price": 1.55,
+    "imgUrl": "/imgs/cabbage.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Carrot",
+    "price": 1.05,
+    "imgUrl": "/imgs/carrot.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Corn",
+    "price": 2.55,
+    "imgUrl": "/imgs/corn.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cucumber",
+    "price": 2,
+    "imgUrl": "/imgs/cucumber.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Eggplant",
+    "price": 1.55,
+    "imgUrl": "/imgs/eggplant.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Onion",
+    "price": 1.35,
+    "imgUrl": "/imgs/onion.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pattison",
+    "price": 2.50,
+    "imgUrl": "/imgs/pattison.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Pepper",
+    "price": 3,
+    "imgUrl": "/imgs/pepper.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Potato",
+    "price": 0.75,
+    "imgUrl": "/imgs/potato.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Pumpkin",
+    "price": 0.50,
+    "imgUrl": "/imgs/pumpkin.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Radish",
+    "price": 2.30,
+    "imgUrl": "/imgs/radish.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Tomato",
+    "price": 4,
+    "imgUrl": "/imgs/tomato.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Zucchini",
+    "price": 2.80,
+    "imgUrl": "/imgs/zucchini.jpg"
+  }
+]
