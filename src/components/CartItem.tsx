@@ -33,7 +33,7 @@ export function CartItem({ id, quantity }: CartItemProps) {
         </div>
       </div>
       <div>
-        {formatCurrency(item.price * quantity)}
+        {formatCurrency(item.price * quantity)}</div>
         <Button
           variant="outline-danger"
           size="sm"
@@ -41,7 +41,6 @@ export function CartItem({ id, quantity }: CartItemProps) {
         >
           &times;
         </Button>
-      </div>
     </Stack>
   );
 }
